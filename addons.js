@@ -350,7 +350,7 @@ const styles = `
     border: 1px solid #1a1a1a;
     border-radius: 4px;
     padding: 0;
-    width: 600px;
+    width: 400px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.8), inset 0 1px 0 rgba(255,255,255,0.1);
     display: none;
     overflow: hidden;
