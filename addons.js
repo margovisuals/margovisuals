@@ -62,35 +62,35 @@ let refreshRequired = false;
             name: 'Better UI',
             description: 'Zmienia nazwy statystyk, bonusów legendarnych oraz dodaje kalkulator ulepszania do tipów.',
             enabled: false,
-            url: 'https://raw.githubusercontent.com/krystianasaaa/margonem-addons/refs/heads/main/betterui.js'
+            url: 'https://raw.githubusercontent.com/margovisuals/margovisuals/refs/heads/main/betterui.js'
          },
         addon2: {
             id: 'notif_styler',
             name: 'Chat&Notifs Styler',
             description: 'Zmienia czcionki i ich rozmiar. Dotyczy czatu w grze oraz powiadomień',
             enabled: false,
-            url: 'https://raw.githubusercontent.com/krystianasaaa/margonem-addons/refs/heads/main/white%20notifs.js'
+            url: 'https://raw.githubusercontent.com/margovisuals/margovisuals/refs/heads/main/notifstyler.js'
         },
         addon3: {
             id: 'resizable_timer',
             name: 'Resizable Timer',
             description: 'Dodaje możliwość zmiany wielkości okna minutnika',
             enabled: false,
-            url: 'https://raw.githubusercontent.com/krystianasaaa/margonem-addons/refs/heads/main/minutnik.js'
+            url: 'https://raw.githubusercontent.com/margovisuals/margovisuals/refs/heads/main/minutnik.js'
         },
         addon4: {
             id: 'mini_widgets',
             name: 'Custom Widgets Size',
             description: 'Skaluje rozmiar widgetów',
             enabled: false,
-            url: 'https://raw.githubusercontent.com/krystianasaaa/margonem-addons/refs/heads/main/mini%20widgets.js'
+            url: 'https://raw.githubusercontent.com/margovisuals/margovisuals/refs/heads/main/mini%20widgets.js'
         },
         addon5: {
             id: 'custom_tooltips',
             name: 'Tooltips Styler',
             description: 'Zmienia wygląd tooltipów, do wyboru do koloru :)',
             enabled: false,
-            url: 'https://raw.githubusercontent.com/krystianasaaa/margonem-addons/refs/heads/main/custom%20tooltips.js'
+            url: 'https://raw.githubusercontent.com/margovisuals/margovisuals/refs/heads/main/tooltips%20styler'
         },
     };
 // Obiekt do przechowywania załadowanych dodatków
