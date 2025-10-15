@@ -1085,7 +1085,7 @@ function createGUI() {
 
     const header = document.createElement('div');
     header.className = 'kwak-addon-menu-header';
-    header.textContent = ` (${Engine.hero.d.nick})`;
+    header.textContent = ` (${Engine.hero.d.nick}) MargoVisuals`;
 
     const closeBtn = document.createElement('button');
     closeBtn.className = 'kwak-addon-close-btn';
@@ -1310,7 +1310,7 @@ function createAddonWidget() {
                 keyName: 'ADDON_MANAGER',
                 index: WidgetPosition[0],
                 pos: WidgetPosition[1],
-                txt: 'Kaczor Addons',
+                txt: 'MargoVisuals',
                 type: 'normal',
                 alwaysExist: true,
                 default: true,
