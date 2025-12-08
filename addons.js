@@ -90,7 +90,7 @@ let refreshRequired = false;
             name: 'Tooltips Styler',
             description: 'Zmienia wygląd tooltipów, do wyboru do koloru :)',
             enabled: false,
-            url: 'https://raw.githubusercontent.com/margovisuals/margovisuals/refs/heads/main/tooltips%20styler'
+            url: 'https://raw.githubusercontent.com/margovisuals/margovisuals/refs/heads/main/tooltips%20styler.js'
         },
         addon6: {
             id: 'shop_hotkey',
